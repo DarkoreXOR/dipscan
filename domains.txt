@@ -1,0 +1,10 @@
+kernel.org
+google.com
+yandex.ru
+twitch.tv
+twitter.com
+microsoft.com
+facebook.com
+vk.com
+ok.ru
+pikabu.ru
